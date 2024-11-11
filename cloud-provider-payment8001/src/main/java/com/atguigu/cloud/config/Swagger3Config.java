@@ -1,4 +1,4 @@
-package com.atguigu.cloud;
+package com.atguigu.cloud.config;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;

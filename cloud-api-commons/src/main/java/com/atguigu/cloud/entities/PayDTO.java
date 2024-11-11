@@ -7,11 +7,11 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class PayDTO implements Serializable {
+public class PayDTO implements Serializable
+{
     private Integer id;
     //支付流水号
     private String payNo;
@@ -22,5 +22,3 @@ public class PayDTO implements Serializable {
     //交易金额
     private BigDecimal amount;
 }
-
-

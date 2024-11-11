@@ -1,4 +1,4 @@
-package com.atguigu.cloud.PayController;
+package com.atguigu.cloud.controller;
 
 import com.atguigu.cloud.entities.Pay;
 import com.atguigu.cloud.entities.PayDTO;
